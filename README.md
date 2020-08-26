@@ -38,6 +38,7 @@ import numpy as np
 
 # 그림파일 예제
 - 그림 파일 올릴때 ![] 넣기 
+![](img/dog.jpg)
 
 
 
